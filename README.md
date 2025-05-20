@@ -17,5 +17,5 @@ This project is an interactive AI-powered therapist that simulates empathetic co
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/AI-Therapist.git
+   git clone https://github.com/PaulRo230/AI-Therapist.git
    cd AI-Therapist
